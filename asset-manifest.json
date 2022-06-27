@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/webprofile/static/css/main.0b4e74b4.css",
+    "main.js": "/webprofile/static/js/main.2f83ea4d.js",
+    "static/js/787.16ce22cb.chunk.js": "/webprofile/static/js/787.16ce22cb.chunk.js",
+    "static/media/unri.jpg": "/webprofile/static/media/unri.e15a51b6c4889f2ec4ea.jpg",
+    "static/media/amanda.jpg": "/webprofile/static/media/amanda.898e48fd8483c96b7f94.jpg",
+    "static/media/foto4.jpg": "/webprofile/static/media/foto4.f4045ab1b3b0c02272f6.jpg",
+    "static/media/foto6.jpeg": "/webprofile/static/media/foto6.8f8551d933cc9f5ae6fc.jpeg",
+    "static/media/manda2.jpeg": "/webprofile/static/media/manda2.aedcf8aefeb6edea39a5.jpeg",
+    "static/media/bg_frozen.jpg": "/webprofile/static/media/bg_frozen.a7ce3f5c621981f9ff07.jpg",
+    "static/media/manda.jpeg": "/webprofile/static/media/manda.3ec33382e031af9ea7b4.jpeg",
+    "static/media/logoamanda.png": "/webprofile/static/media/logoamanda.ac6ff346941f251cb8c6.png",
+    "static/media/foto7.jpeg": "/webprofile/static/media/foto7.149f874a03864af59221.jpeg",
+    "static/media/logo.jpg": "/webprofile/static/media/logo.7c8c34a7b1d14bdd293b.jpg",
+    "static/media/waef.PNG": "/webprofile/static/media/waef.7ea64bb5f12bbc9b81ab.PNG",
+    "index.html": "/webprofile/index.html",
+    "main.0b4e74b4.css.map": "/webprofile/static/css/main.0b4e74b4.css.map",
+    "main.2f83ea4d.js.map": "/webprofile/static/js/main.2f83ea4d.js.map",
+    "787.16ce22cb.chunk.js.map": "/webprofile/static/js/787.16ce22cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b4e74b4.css",
+    "static/js/main.2f83ea4d.js"
+  ]
+}
